@@ -531,7 +531,7 @@
       "groupId": "streaming-service",
       "name": "Hulu",
       "pattern": "(?i)\\b(hulu)\\b",
-      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Hulu-V3.png",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Hulu-V4.png",
       "tagColor": "#00000000",
       "borderColor": "#00ff62",
       "textColor": "#00000000",
