@@ -402,6 +402,149 @@
       "tagStyle": "filled and bordered",
       "isEnabled": true,
       "type": "filter"
+    },
+    {
+      "id": "netflix",
+      "groupId": "streaming-service",
+      "name": "Netflix",
+      "pattern": "(?i)\\b(netflix|nf)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Netflix.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "prime-video",
+      "groupId": "streaming-service",
+      "name": "Prime Video",
+      "pattern": "(?i)\\b(amzn|amazon|prime[\\s._-]?video)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Prime-Video.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "disney-plus",
+      "groupId": "streaming-service",
+      "name": "Disney+",
+      "pattern": "(?i)\\b(dsnp|dspa|disney\\+|disneyplus)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Disney+.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "apple-tv-plus",
+      "groupId": "streaming-service",
+      "name": "Apple TV+",
+      "pattern": "(?i)\\b(atvp|apple[\\s._-]?tv\\+?)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Apple%20TV.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "hbo-max",
+      "groupId": "streaming-service",
+      "name": "HBO Max",
+      "pattern": "(?i)\\b(hmax|max|hbomax|hbo\\s*max)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/HBO%20MAX.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "hulu",
+      "groupId": "streaming-service",
+      "name": "Hulu",
+      "pattern": "(?i)\\b(hulu)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Hulu.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "paramount-plus",
+      "groupId": "streaming-service",
+      "name": "Paramount+",
+      "pattern": "(?i)\\b(pmnp|paramount\\+|paramountplus)\\b",
+      "imageURL": "http://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Paramount+.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "peacock",
+      "groupId": "streaming-service",
+      "name": "Peacock",
+      "pattern": "(?i)\\b(pcok|peacock)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Peacock.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "starz",
+      "groupId": "streaming-service",
+      "name": "Starz",
+      "pattern": "(?i)\\b(stz|starz)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Starz.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "discovery-plus",
+      "groupId": "streaming-service",
+      "name": "Discovery+",
+      "pattern": "(?i)\\b(dscp|dply|discovery\\+|discoveryplus)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Discovery+.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "crunchyroll",
+      "groupId": "streaming-service",
+      "name": "Crunchyroll",
+      "pattern": "(?i)\\b(crunchyroll)\\b",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Crunchyroll.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
     }
   ],
   "groups": [
@@ -453,6 +596,13 @@
       "color": "#00000000",
       "borderColor": "#00000000",
       "isExpanded": true
+    },
+    {
+      "id": "streaming-service",
+      "name": "Streaming Service",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
     }
-  ]
-}
+   ]
+    }
