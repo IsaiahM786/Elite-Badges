@@ -421,7 +421,7 @@
       "groupId": "streaming-service",
       "name": "Prime Video",
       "pattern": "(?i)\\b(amzn|amazon|prime[\\s._-]?video)\\b",
-      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Prime-Video.png",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Prime%20Video.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
