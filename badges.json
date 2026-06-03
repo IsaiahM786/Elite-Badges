@@ -1,4 +1,62 @@
 {
+  "groups": [
+    {
+      "id": "source",
+      "name": "Source",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "resolution",
+      "name": "Resolution",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "video-tech",
+      "name": "Video Tech",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "video-codec",
+      "name": "Video Codec",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "bit-depth",
+      "name": "Bit Depth",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "audio-tech",
+      "name": "Audio Tech",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "audio-channels",
+      "name": "Audio Channels",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "streaming-service",
+      "name": "Streaming Service",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    }
+  ],
   "filters": [
     {
       "id": "remux",
@@ -409,7 +467,7 @@
       "name": "Netflix",
       "pattern": "(?i)\\b(netflix|nf)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Netflix.png",
-      "tagColor": "#00000000",
+      "tagColor": "#000000",
       "borderColor": "#FF0000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
@@ -422,8 +480,8 @@
       "name": "Prime Video",
       "pattern": "(?i)\\b(amzn|amazon|prime[\\s._-]?video)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Prime%20Video.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "tagColor": "#000000",
+      "borderColor": "#16649f",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
       "isEnabled": true,
@@ -449,9 +507,9 @@
       "pattern": "(?i)\\b(atvp|apple[\\s._-]?tv\\+?)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Apple%20TV.png",
       "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "bordered",
       "isEnabled": true,
       "type": "filter"
     },
@@ -474,8 +532,8 @@
       "name": "Hulu",
       "pattern": "(?i)\\b(hulu)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Hulu.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "tagColor": "#000000",
+      "borderColor": "#00ff62",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
       "isEnabled": true,
@@ -488,9 +546,9 @@
       "pattern": "(?i)\\b(pmnp|paramount\\+|paramountplus)\\b",
       "imageURL": "http://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Paramount+.png",
       "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "bordered",
       "isEnabled": true,
       "type": "filter"
     },
@@ -503,7 +561,7 @@
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "isEnabled": true,
       "type": "filter"
     },
@@ -513,8 +571,8 @@
       "name": "Starz",
       "pattern": "(?i)\\b(stz|starz)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Starz.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "tagColor": "#000000",
+      "borderColor": "#006a80",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
       "isEnabled": true,
@@ -546,63 +604,5 @@
       "isEnabled": true,
       "type": "filter"
     }
-  ],
-  "groups": [
-    {
-      "id": "source",
-      "name": "Source",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "resolution",
-      "name": "Resolution",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "video-tech",
-      "name": "Video Tech",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "video-codec",
-      "name": "Video Codec",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "bit-depth",
-      "name": "Bit Depth",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "audio-tech",
-      "name": "Audio Tech",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "audio-channels",
-      "name": "Audio Channels",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
-      "id": "streaming-service",
-      "name": "Streaming Service",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    }
-   ]
-    }
+  ]
+}
