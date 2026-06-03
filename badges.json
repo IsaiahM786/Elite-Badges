@@ -505,7 +505,7 @@
       "groupId": "streaming-service",
       "name": "Apple TV+",
       "pattern": "(?i)\\b(atvp|apple[\\s._-]?tv\\+?)\\b",
-      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Apple%20TV-V3.png",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Apple%20TV-V4.png",
       "tagColor": "#00000000",
       "borderColor": "#FFFFFF",
       "textColor": "#00000000",
