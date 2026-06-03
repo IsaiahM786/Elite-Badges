@@ -520,7 +520,7 @@
       "pattern": "(?i)\\b(hmax|max|hbomax|hbo\\s*max)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/HBO%20MAX.png",
       "tagColor": "#000000",
-      "borderColor": "#FFFFFF",
+      "borderColor": "#8100bd",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
       "isEnabled": true,
@@ -545,10 +545,10 @@
       "name": "Paramount+",
       "pattern": "(?i)\\b(pmnp|paramount\\+|paramountplus)\\b",
       "imageURL": "http://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Paramount+.png",
-      "tagColor": "#00000000",
-      "borderColor": "#FFFFFF",
+      "tagColor": "#000000",
+      "borderColor": "#006adb",
       "textColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagStyle": "filled and bordered",
       "isEnabled": true,
       "type": "filter"
     },
@@ -558,10 +558,10 @@
       "name": "Peacock",
       "pattern": "(?i)\\b(pcok|peacock)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Peacock.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "tagColor": "#000000",
+      "borderColor": "#f5b400",
       "textColor": "#00000000",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "isEnabled": true,
       "type": "filter"
     },
@@ -604,5 +604,7 @@
       "isEnabled": true,
       "type": "filter"
     }
+  ]
+}
   ]
 }
