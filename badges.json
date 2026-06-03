@@ -544,7 +544,7 @@
       "groupId": "streaming-service",
       "name": "Paramount+",
       "pattern": "(?i)\\b(pmnp|paramount\\+|paramountplus)\\b",
-      "imageURL": "http://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Paramount+-V3.png",
+      "imageURL": "http://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Paramount+-V4.png",
       "tagColor": "#00000000",
       "borderColor": "#006adb",
       "textColor": "#00000000",
