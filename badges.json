@@ -570,7 +570,7 @@
       "groupId": "streaming-service",
       "name": "Starz",
       "pattern": "(?i)\\b(stz|starz)\\b",
-      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Starz-V3.png",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Starz-V4.png",
       "tagColor": "#00000000",
       "borderColor": "#006a80",
       "textColor": "#00000000",
