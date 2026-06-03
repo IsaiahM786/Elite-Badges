@@ -466,7 +466,7 @@
       "groupId": "streaming-service",
       "name": "Netflix",
       "pattern": "(?i)\\b(netflix|nf)\\b",
-      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Netflix-V3.png",
+      "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Netflix-V5.png",
       "tagColor": "#00000000",
       "borderColor": "#FF0000",
       "textColor": "#00000000",
