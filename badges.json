@@ -410,7 +410,7 @@
       "pattern": "(?i)\\b(netflix|nf)\\b",
       "imageURL": "https://raw.githubusercontent.com/IsaiahM786/Elite-Badges/main/Badges/Netflix.png",
       "tagColor": "#00000000",
-      "borderColor": "#00000000",
+      "borderColor": "#FF0000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
       "isEnabled": true,
